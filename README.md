@@ -8,15 +8,6 @@ Hi! I'm BigBanans, a passionate **Minecraft Developer** with extensive experienc
 * **Python (Beginner/Learning)** – Currently learning Python; exploring libraries such as PyCord, Discord.py, and Pandas.
 * **Minecraft Server Development** – Custom mechanics, experience with software such as Pterodactyl, performance optimizations, and creative gameplay ideas.
 
-## 📜 Skript Addons I Use
-
-* SkBee
-* SkUtilities
-* Skript-Reflect
-* MongoSK
-* DiSky
-* Skript-Gui
-
 ## 🏢 My Server Development & Staff Experience
 
 * Kaijen
